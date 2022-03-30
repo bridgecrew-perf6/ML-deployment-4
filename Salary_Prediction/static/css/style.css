@@ -1,0 +1,14 @@
+.body{
+   background-image: url(../images/salary.jpg);
+}
+.form{
+    margin-left: 14cm;
+    margin-top: 5cm;
+}
+.form h1{
+    color: rgb(63, 56, 56);
+}
+#submitss{
+    margin-left: 1.5cm;
+    border-radius: 6px;
+}

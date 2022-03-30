@@ -1,0 +1,35 @@
+.form{
+    margin-left: 14cm;
+    margin-top: 5cm;
+    
+}
+
+#sub{
+    margin-left: 1.5cm;
+    color: blueviolet;
+    border-radius: 8px;
+}
+#seplen{
+    border-radius: 7px;
+    
+}
+#sepwid{
+    border-radius: 7px;
+}
+#petlen{
+    border-radius: 7px;
+}
+#petwid{
+    border-radius: 7px;
+}
+.body1{
+    background-image: url('../images/IrisFlowerMeanings2.jpg');
+    background-size: cover;
+}
+.body2{
+    background-image: url('../images/plants-bog-blue-flag-iris-1000.jpg');
+
+}
+.body2 h2{
+    margin-left: 14cm;
+}
